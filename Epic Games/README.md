@@ -94,7 +94,7 @@ If the email account belongs to a private domain, e.g.: xx@sellersdomain.com - t
 
 If the email account was created by the seller, the seller can contact support and claim that the account was hacked to reclaim the account, e.g.:
 
-![ProtonMail Account Recovery](https://github.com/gflixx/Accounts/raw/master/Assets/proton_mail_support.png?raw=true "ProtonMail Account Recovery")
+![ProtonMail Account Recovery](https://github.com/gflixx/Accounts/blob/main/Assets/proton_mail_support.png?raw=true "ProtonMail Account Recovery")
 
 #### Epic Games account recovery
 
