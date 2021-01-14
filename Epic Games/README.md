@@ -92,7 +92,9 @@ If the email account domain belongs to a school or university, e.g.: xx@harvard.
 
 If the email account belongs to a private domain, e.g.: xx@sellersdomain.com - the seller can just reset the password for himself as administrator of the domain.
 
-If the email account was created by the seller, the seller can contact support and claim that the account was hacked to reclaim the account. 
+If the email account was created by the seller, the seller can contact support and claim that the account was hacked to reclaim the account, e.g.:
+
+![ProtonMail Account Recovery](https://github.com/gflixx/Accounts/raw/master/Assets/proton_mail_support.png?raw=true "ProtonMail Account Recovery")
 
 #### Epic Games account recovery
 
