@@ -96,9 +96,9 @@ If the email account was created by the seller, the seller can contact support a
 
 ![ProtonMail Account Recovery](https://github.com/gflixx/Accounts/blob/main/Assets/proton_mail_support.png?raw=true "ProtonMail Account Recovery")
 
-If you catch the SupportForm mail in time and play your cards right (before they give the email account back to the first owner of the email account), you can reply and state that the account was bought, which is against their terms of service, e.g.: [reply 1](https://github.com/gflixx/Accounts/blob/main/Assets/proton_mail_support_response_1.png), [reply 2](https://github.com/gflixx/Accounts/blob/main/Assets/proton_mail_support_response_2.png).
+If you catch the SupportForm mail in time and play your cards right (before they give the email account back to the first owner of the email account), you can reply and state that the account was bought, which is against their terms of service, e.g.: [reply 1](https://github.com/gflixx/Accounts/blob/main/Assets/proton_mail_support_response_1.png?raw=true), [reply 2](https://github.com/gflixx/Accounts/blob/main/Assets/proton_mail_support_response_2.png?raw=true).
 
-This [disables](https://github.com/gflixx/Accounts/blob/main/Assets/proton_mail_disabled.png) the email account.
+This [disables](https://github.com/gflixx/Accounts/blob/main/Assets/proton_mail_disabled.png?raw=true) the email account.
 
 #### Epic Games account recovery
 
